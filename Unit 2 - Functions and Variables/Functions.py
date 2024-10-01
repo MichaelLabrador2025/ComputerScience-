@@ -2,8 +2,9 @@ x = 5  #global variable
 
 
 def my_function():
-    print("hellow world") #local Variable
+    local Variable
     print("catdog") 
+
 
 
 print("oso")
