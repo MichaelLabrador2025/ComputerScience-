@@ -1,8 +1,8 @@
-answer1 = int(input("give a whole number that is leses than 5.\n>"))
+answer1 = int(input("give a whole number that is less than 5.\n>"))
 print(answer1<5)
 
-answer2 = input("who is the best teacher?\n>")
-if (answer2 == "none"):
+answer2 = int(input("give a number equal to 1?\n>"))
+if (answer2 == 1):
     print("true")
 else:
     print("incorrect")
